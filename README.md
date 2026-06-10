@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Aathira 👋
 
-<!--
-**aathiraab8/aathiraab8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc Artificial Intelligence & Machine Learning Graduate
 
-Here are some ideas to get you started:
+💻 Skills
+- Python
+- HTML
+- CSS
+- JavaScript
+- Flask
+- Machine Learning
+- NLP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+- AI Meeting Summarizer and Action Planner
+- Web-Based Healthcare Chatbot
+- Personal Portfolio Website
+
+🌱 Currently Learning
+- SQL
+- Data Analytics
+- Git & GitHub
+
+📫 Contact Me
+- Email: aathiraab08@gmail.com
+
+✨ Passionate about AI, Machine Learning, Data Analytics, and building real-world applications.
