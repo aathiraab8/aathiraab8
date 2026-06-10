@@ -30,6 +30,6 @@
 - Data Engineering
 
 📫 Contact
-- Email: aathiraab08@gmail.com
+- Email: aathiraab8@gmail.com
 
 ⭐ Open to internships and entry-level opportunities in AI, ML, Data Analytics and Python Development.
