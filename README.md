@@ -14,8 +14,9 @@
 
 🚀 Projects
 ### AI Meeting Summarizer and Action Planner
-- Built using Python and NLP
-- Extracts key discussion points and action items
+- AI-powered chatbot built with HTML, CSS, JavaScript, and Groqq API (Llama 3.3 70B)
+- Includes user authentication, health profiles, and prescription tracking.
+[Repo](https://github.com/aathiraab8/AI-Meeting-Summarizer)
 
 ### Healthcare Chatbot
 - Developed with Flask, HTML, CSS and JavaScript
