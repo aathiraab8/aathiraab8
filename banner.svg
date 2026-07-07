@@ -1,0 +1,18 @@
+<svg width="900" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e1b4b"/>
+      <stop offset="50%" style="stop-color:#312e81"/>
+      <stop offset="100%" style="stop-color:#0f766e"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#bg)" rx="12"/>
+  <path d="M0,160 Q225,130 450,160 Q675,190 900,160 L900,200 L0,200 Z" fill="rgba(255,255,255,0.06)"/>
+  <path d="M0,175 Q225,150 450,175 Q675,200 900,175 L900,200 L0,200 Z" fill="rgba(255,255,255,0.04)"/>
+  <circle cx="60" cy="55" r="35" fill="rgba(168,85,247,0.15)"/>
+  <circle cx="840" cy="145" r="45" fill="rgba(20,184,166,0.15)"/>
+  <circle cx="800" cy="35" r="22" fill="rgba(168,85,247,0.1)"/>
+  <circle cx="120" cy="160" r="18" fill="rgba(20,184,166,0.1)"/>
+  <text x="450" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="bold" fill="white">Hi, I'm Aathira 👋</text>
+  <text x="450" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#c4b5fd">AI &amp; ML Graduate · Python Developer · Open to SDE / AI-ML Roles</text>
+</svg>
